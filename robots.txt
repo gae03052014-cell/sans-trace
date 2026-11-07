@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gae03052014-cell.github.io/sans-trace/sitemap.xml
